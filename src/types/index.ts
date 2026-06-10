@@ -70,5 +70,6 @@ export type AuthStackParamList = {
 
 export type MainTabParamList = {
   Home: undefined;
+  DehradunWash: undefined;
   Profile: undefined;
 };
